@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenDanj
-- 👀 I’m interested in Machine Learning , Computer Vision , Web Application development , Mobile Application Development and more
-- 🌱 I’m currently learning Django , Laravel , OpenCV , Tensorflow , React Native
+- 👀 I’m interested in Machine Learning , Computer Vision , Web Application development , Mobile Application Development , Blockchain , Web3 and more
+- 🌱 I’m currently learning Solidity and blockchain
 - 💞️ I’m looking to collaborate on Web application development , Mobile Application Development
 - 📫 How to reach me naveenhettiwaththa@gmail.com
 
