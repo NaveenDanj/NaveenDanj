@@ -21,4 +21,7 @@ Hi, I’m @NaveenDanj<br>👀 I’m interested in Machine Learning , Computer Vi
 ---
 [![](https://visitcount.itsvg.in/api?id=naveendanj&icon=0&color=0)](https://visitcount.itsvg.in)
 
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandaru-Samintha&theme=react-dark&hide_border=true&area=true) 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
