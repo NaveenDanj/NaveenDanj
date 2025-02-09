@@ -15,6 +15,8 @@ Hi, I’m @NaveenDanj<br>👀 I’m interested in Machine Learning , Computer Vi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<a href="https://stardev.io/developers/NaveenDanj"><img alt="Check out NaveenDanj's profile on stardev.io" src="https://stardev.io/developers/NaveenDanj/badge/languages/country.svg" /></a>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naveendanj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
