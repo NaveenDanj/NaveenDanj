@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @NaveenDanj<br>👀 I’m interested in Machine Learning , Computer Vision , Web Application development , Mobile Application Development , Blockchain , Web3 and more<br>🌱 I’m currently learning Golang and ZIG<br>💞️ I’m looking to collaborate on Web application development , Mobile Application Development<br>📫 How to reach me naveenhettiwaththa@gmail.com
+Hi, I’m @NaveenDanj<br>👀 I’m interested in Machine Learning , Computer Vision , Web Application development , Mobile Application Development , Blockchain , Web3 , Quantum Computing and more<br>🌱 I’m currently learning Golang and ZIG<br>💞️ I’m looking to collaborate on Web application development , Mobile Application Development<br>📫 How to reach me naveenhettiwaththa@gmail.com
 
 
 # 💻 Tech Stack:
